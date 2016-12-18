@@ -10,9 +10,6 @@ var main = function() {
   $('.notification').click(function(){
     $(this).toggleClass('active');
   });
-  
-  
-  
 };
 
 $(document).ready(main);
